@@ -4,7 +4,7 @@
 <dict>
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
-		<string>io.nekohasekai.sfavt.update_profiles</string>
+		<string>dev.nekohasekai.sfavt.update_profiles</string>
 	</array>
 	<key>CFBundleURLTypes</key>
 	<array>

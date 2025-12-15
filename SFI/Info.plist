@@ -4,7 +4,7 @@
 <dict>
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
-		<string>io.nekohasekai.sfavt.update_profiles</string>
+		<string>dev.nekohasekai.sfavt.update_profiles</string>
 	</array>
 	<key>CFBundleDocumentTypes</key>
 	<array>
@@ -19,7 +19,7 @@
 			<string>Owner</string>
 			<key>LSItemContentTypes</key>
 			<array>
-				<string>io.nekohasekai.sfavt.profile</string>
+				<string>dev.nekohasekai.sfavt.profile</string>
 			</array>
 		</dict>
 	</array>
@@ -52,7 +52,7 @@
 	</dict>
 	<key>NSUbiquitousContainers</key>
 	<dict>
-		<key>iCloud.io.nekohasekai.sfavt</key>
+		<key>iCloud.dev.nekohasekai.sfavt</key>
 		<dict>
 			<key>NSUbiquitousContainerIsDocumentScopePublic</key>
 			<true/>
@@ -80,7 +80,7 @@
 			<key>UTTypeIconFiles</key>
 			<array/>
 			<key>UTTypeIdentifier</key>
-			<string>io.nekohasekai.sfavt.profile</string>
+			<string>dev.nekohasekai.sfavt.profile</string>
 			<key>UTTypeTagSpecification</key>
 			<dict>
 				<key>public.filename-extension</key>
@@ -106,7 +106,7 @@
 				<string>AppIcon.icns</string>
 			</array>
 			<key>UTTypeIdentifier</key>
-			<string>io.nekohasekai.sfavt.profile</string>
+			<string>dev.nekohasekai.sfavt.profile</string>
 			<key>UTTypeTagSpecification</key>
 			<dict>
 				<key>public.filename-extension</key>

@@ -28,6 +28,9 @@
     "%lld" : {
       "shouldTranslate" : false
     },
+    "%lld Profiles" : {
+
+    },
     "↑ %@" : {
       "shouldTranslate" : false
     },
@@ -265,6 +268,9 @@
           }
         }
       }
+    },
+    "Connecting..." : {
+
     },
     "Connection" : {
       "localizations" : {
@@ -1292,6 +1298,9 @@
         }
       }
     },
+    "Select Device" : {
+
+    },
     "Service Error" : {
       "localizations" : {
         "zh-Hans" : {
@@ -1517,6 +1526,9 @@
           }
         }
       }
+    },
+    "To import configurations from your iPhone or iPad, make sure sing-box is the **same version** on both devices and **VPN is disabled**." : {
+
     },
     "Traffic" : {
       "localizations" : {
